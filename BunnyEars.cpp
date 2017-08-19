@@ -27,9 +27,4 @@ int main(){
     std::cout << "Total number of bunny ears for " << number << " bunnies is : " << bunnyEars(number) << endl;
     return 0;
 
-
-
-
-    return 0;
-
 }
